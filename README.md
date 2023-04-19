@@ -1,2 +1,5 @@
-# jz5688_S23_CodeLab1_Week10
- week10
+# HW 10: 2D Arrays
+
+Collaborators: Eric Cheng, Lily Yu
+
+For this assignment, we created a simple tic-tac-toe with 2D arrays.
